@@ -2,6 +2,7 @@
 // The meme image is entry.png beside this file. This script places a
 // byte-for-byte copy in the directory the grader reads, so every graded
 // run sees exactly the image committed in this repository.
+// Second pass: kept the copy step unchanged; only this header was revised.
 //
 // Local run:
 //   mkdir -p out && MAKEFUN_OUTPUT_DIR=out node main.ts
